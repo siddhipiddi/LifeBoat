@@ -1,3 +1,5 @@
+![logo](https://github.com/siddhipiddi/LifeBoat/blob/main/Logo.JPG)
+
 # LifeBoat
 
 LifeBoat is an android application that helps you learn a new skill daily, with short tutorials that teach you skills you should know, so you can be prepared for whatever life throws at you- from a flat tyre to a medical emergency.
